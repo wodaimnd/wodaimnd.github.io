@@ -7,18 +7,20 @@
 ## Contact
 
 - Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+  - **Chengyi College of Jimei University - 199 Jimei Avenue, Jimei District, Xiamen City. - Fujian, China**
 - Site
-  - **<https://wu-kan.cn>**
-- [Resume](https://resume.wu-kan.cn/index.pdf)
+  - **<[[https://woyi.114514hc.top/](https://woyi.114514hc.top/)]>**
+- [Resume]([https://github.com/wodaimnd/wodaimnd.github.io/])
 
 <!-- .slide vertical=true -->
 
+- Phone
+  - **+86 18157629287**
 - WeChat
-  - **wukan0621**
+  - **ckwdewx233333**
 - E-mail:
-  - **homepage[at]wu-kan.cn**
-  - **wukan3[at]mail2.sysu.edu.cn**
+  - **[woyi[at]Gmail.com](mailto:woyi@Gmail.com)**
+  - **[jntm114514[at]jmu.edu.edu.cn](mailto:jntm114514@jmu.edu.cn)**
 
 <!-- .slide -->
 
@@ -34,7 +36,7 @@
 
 - [SYsU-lang](https://arcsysu.github.io/SYsU-lang/)[![Star](https://img.shields.io/github/stars/arcsysu/SYsU-lang.svg)](https://github.com/arcsysu/SYsU-lang)[![Fork](https://img.shields.io/github/forks/arcsysu/SYsU-lang.svg)](https://github.com/arcsysu/SYsU-lang/fork)
   - A mini, simple and modular compiler for SYsU (a tiny C language).
-  - Based on LLVM, antlr, bison and flex.
+  - Based on flex, bison and LLVM.
 
 <!-- .slide vertical=true -->
 
